@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Akash Gaikwad  
 
-🚀 Passionate Software Developer | 💻 Web & Mobile Developer | 🎯 Problem Solver  
+🚀 Passionate Software Developer | 💻 Web & Mobile Developer | 🎯 Problem Solver | 💡 Freelancer
 
 ### 👨‍💻 About Me  
 - 🔭 I’m currently working on **EngiHub Project**  
