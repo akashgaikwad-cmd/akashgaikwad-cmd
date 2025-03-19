@@ -71,7 +71,7 @@
 
 ### 📫 Connect with Me  
 📧 Email: ag284533@gmail.com  
-🔗 Portfolio: [akashgaikwad.in](http://akashgaikwad.in/lander)  
+🔗 Portfolio: [akashgaikwad.in](http://akashgaikwad.in/)  
 💼 LinkedIn: [linkedin.com/in/akashgaikwad](https://www.linkedin.com/in/akash-gaikwad-35113522a/)  
 📌 GitHub: [github.com/akashgaikwad-cmd](https://github.com/akashgaikwad-cmd)  
 
