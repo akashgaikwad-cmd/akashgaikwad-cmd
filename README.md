@@ -59,7 +59,7 @@
 ### 🎯 Achievements  
 🏆 **100 Days Coding Award (LeetCode, 2024)**  
 🏆 **SHODH-2023 National-Level Project (4th Rank, 247 Teams)**  
-🏆 **TechnoUtsav-2023 National-Level Project (4th Rank, 247 Teams**  
+🏆 **TechnoUtsav-2023 National-Level Project (4th Rank, 247 Teams)**  
 
 ---
 
