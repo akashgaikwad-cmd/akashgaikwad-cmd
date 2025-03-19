@@ -15,12 +15,9 @@
 
 ### 🛠️ Tech Stack & Skills  
 💻 **Programming Languages**  
-![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)  
-![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)  
+![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)  
+![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)  
 
 🌐 **Web Development**  
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)  
