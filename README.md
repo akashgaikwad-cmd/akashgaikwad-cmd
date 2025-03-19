@@ -15,21 +15,13 @@
 
 ### 🛠️ Tech Stack & Skills  
 💻 **Programming Languages**  
-![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)  
-![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)  
+![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)  ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)  
 
 🌐 **Web Development**  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)  
-![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-1261FE?style=flat-square&logo=ibm-cloud)  
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle)  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)  ![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-1261FE?style=flat-square&logo=ibm-cloud)  ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle)  
 
 📱 **Mobile Development**  
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android)  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)  
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&log8o=android)    ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)  
 
 🛠 **Other Tools & Technologies**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)  
