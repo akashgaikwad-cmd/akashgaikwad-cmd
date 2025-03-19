@@ -1,13 +1,14 @@
 ## Hi there! 👋 I'm Akash Gaikwad  
 
-🚀 Passionate Software Developer | 💻 Web & Android Developer | 🎯 Problem Solver  
+🚀 Passionate Software Developer | 💻 Web & Mobile Developer | 🎯 Problem Solver  
 
 ### 👨‍💻 About Me  
-- 🔭 I’m currently working on **ElectraTrack & Scheduling Algorithm Website**  
-- 🌱 Learning & mastering **Web Development, Android Development, and Java Projects**  
-- 🏆 **National-Level Project Competition SHODH-2023 (4th Rank out of 247 teams)**  
+- 🔭 I’m currently working on **EngiHub Project**  
+- 🌱 Learning & mastering **Web Development, Android Development,Flutter Development and Java Projects**  
+- 🏆 **National-Level Project Competition SHODH-2023 (4th Rank out of 247 teams)**
+- 🏆 **National-Level Project Competition TechnoUtsav-2023 (4th Rank out of 247 teams)**  
 - 🤖 Built a **Custom AI Desktop Assistant & Chatbot**  
-- 💡 Interested in **Blogging, Real Estate Listings, and Placement Resources**  
+- 💡 Interested in **Blogging and Placement Resources**  
 - ⚡ Fun fact: **I enjoy solving coding challenges and automating tasks!**  
 
 ---
@@ -17,21 +18,21 @@
 ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)  
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)  
 
 🌐 **Web Development**  
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)  
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)  
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)  
-
-📱 **Android Development**  
-![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)  
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin)  
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)  
+![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-1261FE?style=flat-square&logo=ibm-cloud)  
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle)  
+
+📱 **Mobile Development**  
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android)  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)  
 
 🛠 **Other Tools & Technologies**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)  
@@ -41,11 +42,15 @@
 ---
 
 ### 🌟 Projects  
+📌 **FruitVision** - Project which identifies fruits on there image 
+📌 **NaariRakshak** - App for women safety 
 📌 **ElectraTrack** - MLA Fund Tracking System  
-📌 **Scheduling Algorithm Visualizer** - Website to simulate scheduling algorithms  
+📌 **Aspira** - Smart Goal Tracker  
 📌 **Student Management System** - Java Swing & Oracle-based project  
-📌 **Real Estate Listings Website** - A platform for property listings  
+📌 **KagroMart** - A platform Like zomato and swiggy for Farmers  
 📌 **Personal AI Assistant** - Custom-built AI for voice commands  
+📌 **Farmer Reminders System** - Website which provides timly reminders to Framers 
+📌 **AI Chatbot** - Javascript and Gemini API 
 
 ---
 
@@ -57,10 +62,9 @@
 ---
 
 ### 📫 Connect with Me  
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+📧 Email: ag284533@gmail.com  
 🔗 Portfolio: [akashgaikwad.in](http://akashgaikwad.in/lander)  
-💼 LinkedIn: [linkedin.com/in/akashgaikwad](https://linkedin.com/)  
-🐦 Twitter: [@your_twitter_handle](https://twitter.com/)  
+💼 LinkedIn: [linkedin.com/in/akashgaikwad](https://www.linkedin.com/in/akash-gaikwad-35113522a/)  
 📌 GitHub: [github.com/akashgaikwad-cmd](https://github.com/akashgaikwad-cmd)  
 
 ---
