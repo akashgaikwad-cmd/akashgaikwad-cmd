@@ -42,14 +42,22 @@
 ---
 
 ### 🌟 Projects  
-📌 **FruitVision** - Project which identifies fruits on there image 
+📌 **FruitVision** - Project which identifies fruits on there image
+
 📌 **NaariRakshak** - App for women safety 
-📌 **ElectraTrack** - MLA Fund Tracking System  
+
+📌 **ElectraTrack** - MLA Fund Tracking System 
+
 📌 **Aspira** - Smart Goal Tracker  
-📌 **Student Management System** - Java Swing & Oracle-based project  
+
+📌 **Student Management System** - Java Swing & Oracle-based project 
+
 📌 **KagroMart** - A platform Like zomato and swiggy for Farmers  
-📌 **Personal AI Assistant** - Custom-built AI for voice commands  
+
+📌 **Personal AI Assistant** - Custom-built AI for voice commands 
+
 📌 **Farmer Reminders System** - Website which provides timly reminders to Framers 
+
 📌 **AI Chatbot** - Javascript and Gemini API 
 
 ---
