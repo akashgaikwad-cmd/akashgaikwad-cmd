@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Akash Gaikwad  
 
-🚀 Fusionxcloud  | 💻 Oracle APEX Developer | 💻 Web & Mobile Developer | 🎯 Problem Solver | 💡 VIT-2026,GPAN-2023
+🚀 Vervotech | 💻 .NET Developer  | 💻 Oracle APEX Developer | 💻 Web & Mobile Developer | 🎯 Problem Solver | 💡 VIT-2026,GPAN-2023
 
 ### 👨‍💻 About Me  
 - 🔭 I’m currently working on **EngiHub Project**  
@@ -33,6 +33,8 @@
 ---
 
 ### 🌟 Projects 
+
+📌 **pratibimb** - Easy Zerox platform 🚀💙
 
 📌 **Alera** - Because your health matters! 🚀💙
 
