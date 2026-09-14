@@ -168,35 +168,6 @@
 
 `OOP` • `DSA` • `DBMS` • `REST APIs` • `API Development` • `Authentication` • `Cloud Computing` • `Microservices` • `CI/CD` • `Agile` • `System Design` • `Problem Solving` • `Automation`
 
----
-
-## 🌟 Projects
-
-📌 **Pratibimb** — Online document printing / Xerox platform 🚀💙
-
-📌 **Medconnect** — Healthcare-focused application built with Flutter & Supabase 🚀💙
-
-📌 **Alera** — Because your health matters! 🚀💙
-
-📌 **FruitVision** — Application for identifying fruits from images 🚀💙
-
-📌 **NaariRakshak** — Women safety application 🚀💙
-
-📌 **ElectraTrack** — MLA Fund Tracking System 🚀💙
-
-📌 **Aspira** — Smart Goal Tracker 🚀💙
-
-📌 **Student Management System** — Java Swing & Oracle-based project 🚀💙
-
-📌 **KagroMart** — Farmer-focused e-commerce platform 🚀💙
-
-📌 **Personal AI Assistant** — Custom-built AI assistant for voice commands 🚀💙
-
-📌 **Farmer Reminders System** — Website providing timely reminders to farmers 🚀💙
-
-📌 **AI Chatbot** — JavaScript & Gemini API based chatbot 🚀💙
-
----
 
 ## 🎯 Achievements
 
