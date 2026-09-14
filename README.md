@@ -3,7 +3,7 @@
 🚀 SDE @Vervotech | 🎯 Tech Freelancer | 💻 .NET Developer  | 💻 Oracle APEX Developer | 💻 Web & Mobile Developer | 🎯 Problem Solver | 💡 VIT-2026,GPAN-2023
 
 ### 👨‍💻 About Me  
-- 🔭 I’m currently working on **EngiHub Project**  
+- 🔭 I’m currently working on **Medconnect Project**  
 - 🌱 Learning & mastering **Web Development, Android Development,Flutter Development and Java Projects**  
 - 🏆 **National-Level Project Competition SHODH-2023 (4th Rank out of 247 teams)**
 - 🏆 **National-Level Project Competition TechnoUtsav-2023 (4th Rank out of 247 teams)**  
