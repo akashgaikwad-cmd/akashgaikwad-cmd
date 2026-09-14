@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Akash Gaikwad  
 
-🚀 Vervotech | 💻 .NET Developer  | 💻 Oracle APEX Developer | 💻 Web & Mobile Developer | 🎯 Problem Solver | 💡 VIT-2026,GPAN-2023
+🚀 SDE @Vervotech | 🎯 Tech Freelancer | 💻 .NET Developer  | 💻 Oracle APEX Developer | 💻 Web & Mobile Developer | 🎯 Problem Solver | 💡 VIT-2026,GPAN-2023
 
 ### 👨‍💻 About Me  
 - 🔭 I’m currently working on **EngiHub Project**  
